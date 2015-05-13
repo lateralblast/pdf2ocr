@@ -18,6 +18,18 @@ Usage
 ```
 $ pdf2ocr file.pdf
 OCRing file.pdf to file.txt
+OCRing page 1 of 12
+OCRing page 2 of 12
+OCRing page 3 of 12
+OCRing page 4 of 12
+OCRing page 5 of 12
+OCRing page 6 of 12
+OCRing page 7 of 12
+OCRing page 8 of 12
+OCRing page 9 of 12
+OCRing page 10 of 12
+OCRing page 11 of 12
+OCRing page 12 of 12
 ```
 
 Requirements
